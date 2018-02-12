@@ -11,6 +11,7 @@ if (process.env.NODE_ENV !== 'production') {
   app.use(require('choo-service-worker')())
 }
 
+app.use(require('choo-component-preview')())
 app.use(store)
 
 app.route('/', require('./views/main'))

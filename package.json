@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "choo": "^6.7.0",
+    "choo-component-preview": "^1.1.0",
     "choo-service-worker": "^2.4.0",
+    "nanocomponent": "^6.5.1",
     "sheetify": "^7.2.0",
     "tachyons": "^4.9.1"
   },
