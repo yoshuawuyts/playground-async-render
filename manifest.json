@@ -1,6 +1,6 @@
 {
-  "name": "async-render-example",
-  "short_name": "async-render-example",
+  "name": "playground-async-render",
+  "short_name": "playground-async-render",
   "description": "Try out async rendering.",
   "start_url": "/",
   "display": "standalone",

@@ -1,6 +1,6 @@
 var html = require('choo/html')
 
-var TITLE = 'async-render-example - route not found'
+var TITLE = 'playground-async-render - route not found'
 
 module.exports = view
 

@@ -1,4 +1,4 @@
-# async-render-example
+# playground-async-render
 Try out async rendering.
 
 ## Commands

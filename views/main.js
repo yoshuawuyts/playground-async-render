@@ -1,6 +1,6 @@
 var html = require('choo/html')
 
-var TITLE = 'async-render-example - main'
+var TITLE = 'playground-async-render - main'
 
 module.exports = view
 
